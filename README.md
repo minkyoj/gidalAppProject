@@ -1,2 +1,1 @@
-# gidalAppProject
-gidalAppProject
+# 🎁 [기달]기프티콘 중고거래 플랫폼 
